@@ -1,0 +1,1102 @@
+/* table.table-bordered.dataTable th, table.table-bordered.dataTable td {
+    border-bottom-width: 0px !important;
+} */
+/*its hidden due create dashboard ui issue*/
+div.content{
+    width:100% !important;
+}
+.card-body{
+    overflow : hidden;  
+    position:relative;
+    /* width:1030px;
+    display: block; */
+}
+@media (min-width: 1500px){
+    .card-body{
+        max-width: 100%;
+    }
+}  
+@media (min-width: 1400px){
+    .card-body{
+        max-width: 1200px;
+    }
+}  
+@media (min-width: 1100px){
+    .card-body{
+        max-width: 1080px;
+    }
+} 
+@media (min-width: 900px){
+    .card-body{
+        max-width: 1050px;
+    }
+}  
+@media (min-width:700px){
+    .card-body{
+        max-width: 1030px;
+    }
+}
+
+@media (max-width:1050px){
+    .card-body{
+        max-width: 1030px;
+    }
+}
+
+@media (min-width:700px){
+    .card-body{
+        max-width: 1030px;
+    }
+}
+
+ @media only screen and (min-width: 1200px) {
+       .card-body{
+        max-width: 1030px;
+       }
+    }
+    @media only screen and (min-width: 1400px) {
+         .card-body{
+           max-width: 1150px;
+        }
+    }
+    @media only screen and (min-width: 2000px) {
+       .card-body{
+           max-width: 1350px;
+        }
+    }
+   
+
+    
+/* @media (min-width:1300px) {
+    .card-body{
+        overflow-x: scroll;
+        position:relative;
+        width:1250px;
+    }
+}   */
+
+.btn-secondary{
+	margin-right:20px;
+}
+
+ .btn-primary{
+	margin-right:20px;
+}
+
+ .btn-danger{
+	margin-right:20px;
+}
+
+.btn-info{
+	margin-right:20px;
+}
+
+
+.breadcrumb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+	margin-left:-18px;
+	margin-top:-17px;
+    background-color: #7e3bb2;
+    border-radius: .25rem;
+	font-size:19px;
+	font-style:italic;
+    /* display: none !important; */
+}
+.breadcrumb-item{
+	color:#fff;
+}
+.breadcrumb-item .fa fa-home{
+	color:#fff;
+}
+.breadcrumb-item.active {
+    color: #eff7ff;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+    display: inline-block;
+    padding-right: .5rem;
+    color: #eff4f9;
+    content: "/";
+} 
+.METALLICSEAWEED {
+    background-color: #7e3bb2;
+}
+
+
+
+/*view edit inst setting---------------------------------------------------*/
+.slow .toggle-group {
+    transition: left 0.7s;
+    -webkit-transition: left 0.7s;
+}
+
+.fast .toggle-group {
+    transition: left 0.1s;
+    -webkit-transition: left 0.1s;
+}
+
+.quick .toggle-group {
+    transition: none;
+    -webkit-transition: none;
+}
+
+/*CSS  for taber*/
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #547175;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #007bff;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #007bff;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    /* padding: 6px 12px; */
+    /* border: 1px solid #ccc; */
+    border-top: none;
+}
+
+.tab>button {
+    color: #fff;
+}
+
+/* end view edit institute setting*/
+
+/*student_report card-----------------------------*/
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #547175;
+  }
+  
+  /* Style the buttons that are used to open the tab content */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: #007bff;
+  }
+  
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #007bff;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+  button{
+      
+   color:#fff;	
+      
+  }
+/*end student_report card-----------------------------*/
+
+/*online Admission----------------------*/
+
+.error p {
+
+    color: #f50e2f;
+
+    font-size: 12px;
+
+    padding: 4px 2px;
+
+}
+/*end online Admission*/
+
+/*reports.php-----------------*/
+.progress {
+
+    width: 70%;
+
+    margin-left: 2px;
+
+    height: 15px;
+
+    background-color: #e7e7e7;
+
+    position: relative;
+
+}
+
+/* Total Fee Discount */
+
+.value2 {
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    background-color: #112536;
+
+    width: <?php echo $discper; ?>%;
+
+    height: 100%;
+
+}
+
+.value2:after {
+
+    content: '';
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    background: linear-gradient(-45deg,
+
+            rgba(255, 255, 255, 0.4) 33.33%,
+
+            transparent 33.33%,
+
+            transparent 66.66%,
+
+            rgba(255, 255, 255, 0.4) 66.66%);
+
+    background-size: 30px 15px;
+
+    animation: progress 10s infinite linear;
+
+}
+
+
+
+@keyframes progress {
+
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 100% 100%;
+    }
+
+}
+
+
+
+
+
+/* Total Paid Fees */
+
+.value {
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    background-color: #112536;
+
+    width: <?php echo $per; ?>%;
+
+    height: 100%;
+
+}
+
+.value:after {
+
+    content: '';
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    background: linear-gradient(-45deg,
+
+            rgba(255, 255, 255, 0.4) 33.33%,
+
+            transparent 33.33%,
+
+            transparent 66.66%,
+
+            rgba(255, 255, 255, 0.4) 66.66%);
+
+    background-size: 30px 15px;
+
+    animation: progress 10s infinite linear;
+
+}
+
+
+
+@keyframes progress {
+
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 100% 100%;
+    }
+
+}
+
+
+
+
+
+
+
+/* Total Paid Fees */
+
+.value1 {
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    background-color: #112536;
+
+    /* width: <?php echo $bper; ?>%; */
+
+    height: 100%;
+
+}
+
+.value1:after {
+
+    content: '';
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    background: linear-gradient(-45deg,
+
+            rgba(255, 255, 255, 0.4) 33.33%,
+
+            transparent 33.33%,
+
+            transparent 66.66%,
+
+            rgba(255, 255, 255, 0.4) 66.66%);
+
+    background-size: 30px 15px;
+
+    animation: progress 10s infinite linear;
+
+}
+
+
+
+@keyframes progress {
+
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 100% 100%;
+    }
+
+}
+
+
+
+
+
+
+
+h6 {
+
+    margin-left: 5px;
+
+    position: relative;
+
+    top: 45px;
+
+    width: 250px;
+
+
+
+
+
+}
+
+h6 span {
+
+    padding-right: 70px;
+
+    margin-left: -5px;
+
+}
+
+
+
+.DUSTSTORM {
+    background-color: #7D7471;
+}
+
+.MARIGOLD {
+    background-color: #EDA334;
+}
+
+.CRAYOLA {
+    /*background-color: #FF773D;*/
+    background-color: #7b2b4c;
+}
+
+.METALLICSEAWEED {
+    background-color: #7e3bb2;
+}
+
+.CYAN {
+    background-color: #77A17E;
+}
+
+.ORIOLES {
+    background-color: #2E4057;
+}
+
+
+
+.button:focus {
+
+    /* background: #1F7A8C; */
+    background: #7e3bb2;
+}
+/*end reports.php*/
+/*create test--------------------------------------------*/
+tr th {
+
+    font-size: 11px;
+}
+
+tr td {
+
+    font-size: 11px;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    background-color: #547175;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #007bff;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #007bff;
+}
+
+button {
+    color: #fff;
+}
+
+.card-body>table>thead {
+    height: 48px;
+    /*    font-size: 70px;*/
+}
+
+.card-body>table>thead>tr>th {
+    /*    height: 48px;*/
+    font-size: 14px;
+}
+#createtest_panel>.card-body{
+    /* width:900px !important; */
+}
+#createtest_panel .dataTables_scroll {
+	width:992px;
+}
+
+/*end create test*/
+
+/*student notifications----------------------*/
+tr th {
+    font-size: 11px;
+}
+
+tr td {
+    font-size: 11px;
+}
+
+.text_sms_format {
+    width: 730px;
+    border: 1px solid black;
+    height: 300px;
+    background: white;
+    border-radius: 10px;
+    padding: 12px;
+    line-height: 37px;
+    font-size: 18px;
+} 
+
+input.sms_input_field {
+    height: 26px;
+    padding: 2px;
+}
+.arrow-btn{
+    display: block;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+/*end student notifications*/
+
+/*generate bill -----------------------------------------------------------------*/
+.row1{
+	border:1px solid grey;
+}
+
+.row2{
+	border-left:1px solid grey;
+	border-bottom:1px solid grey;
+	border-right:1px solid grey;
+}
+
+.row3{
+	border-left:1px solid grey;
+	border-bottom:1px solid grey;
+	border-right:1px solid grey;
+}
+
+.row4{
+	border-right:1px solid grey;
+	
+}
+
+.heading{
+		color:grey;
+		font-weight:bold;
+		margin-left:10px;
+	}
+
+.heading1{
+		color:grey;
+		font-weight:bold;
+		margin-left:55px;
+	}
+.heading2{
+		color:grey;
+		font-weight:bold;
+		margin-left:70px;
+	}
+	
+	.heading3{
+		color:grey;
+		font-weight:bold;
+		margin-left:100px;
+	}
+	.heading4{
+		color:grey;
+		font-weight:bold;
+		margin-left:130px;
+	}
+	.heading5{
+		color:grey;
+		font-weight:bold;
+		margin-left:25px;
+	}
+
+#top-amt-pay{
+	border:2px solid grey;
+	padding:10px;
+	border-radius:10px;
+	margin-top:15px;
+	width:250px;
+}
+#top-amt-pay h4{
+	text-align:center;
+	
+}
+#amt-fld{
+	margin-top:10px;
+	font-size:20px;
+	font-weight:bold;
+	width:400px;
+}
+
+#amt-paid{
+	border:2px solid grey;
+	padding:10px;
+	border-radius:10px;
+	margin-top:15px;
+	margin-left:0px;
+
+	
+}
+#amt-paid h4{
+	text-align:center;
+}
+#div-name{
+	font-size:20px;
+	font-weight:bold;
+}
+
+#div-data{
+	width:300px;
+	margin-left:-45px;
+}
+
+#collectfee .form-control{
+	height:25px;
+	width:150px;
+}
+
+#chk{
+	width:500px;
+	margin-top:5px;
+	}
+	.styled-select {
+   height: 29px;
+   overflow: hidden;
+   width: 220px;
+   background: transparent;
+    -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+    background-color: #3b8ec2;
+	color:white;
+}
+
+#demo345{
+	width:500px;
+	margin-top:5px;
+	}
+	.styled-select {
+   height: 29px;
+   overflow: hidden;
+   width: 220px;
+   background: transparent;
+    -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+    background-color: #3b8ec2;
+	color:white;
+}
+/* #top-amt-pay > table > tbody>tr{
+	padding-bottom:30px;
+} */
+
+/*generate bill*/
+
+/*Generate Transport bill-----------------------------------------------------------------*/
+
+.generate_trans_bill .row1{
+
+	border:1px solid grey;
+
+}
+
+
+
+.generate_trans_bill .row2{
+
+	border-left:1px solid grey;
+
+	border-bottom:1px solid grey;
+
+	border-right:1px solid grey;
+
+}
+
+
+
+.generate_trans_bill .row3{
+
+	border-left:1px solid grey;
+
+	border-bottom:1px solid grey;
+
+	border-right:1px solid grey;
+
+}
+
+
+
+.generate_trans_bill .row4{
+
+	border-right:1px solid grey;
+
+	
+
+}
+
+
+
+.generate_trans_bill .heading{
+
+		color:grey;
+
+		font-weight:bold;
+
+		margin-left:10px;
+
+	}
+
+
+
+	.generate_trans_bill .heading1{
+
+		color:grey;
+
+		font-weight:bold;
+
+		margin-left:55px;
+
+	}
+
+	.generate_trans_bill .heading2{
+
+		color:grey;
+
+		font-weight:bold;
+
+		margin-left:70px;
+
+	}
+
+	
+
+	.generate_trans_bill .heading3{
+
+		color:grey;
+
+		font-weight:bold;
+
+		margin-left:100px;
+
+	}
+
+	.generate_trans_bill .heading4{
+
+		color:grey;
+
+		font-weight:bold;
+
+		margin-left:130px;
+
+	}
+
+	.generate_trans_bill .heading5{
+
+		color:grey;
+
+		font-weight:bold;
+
+		margin-left:25px;
+
+	}
+
+
+
+	.generate_trans_bill #top-amt-pay{
+
+	border:2px solid grey;
+
+	padding:10px;
+
+	border-radius:10px;
+
+	margin-top:15px;
+     width:300px;   
+	/* width:250px; */
+
+}
+
+.generate_trans_bill #top-amt-pay h4{
+
+	text-align:center;
+
+}
+.generate_trans_bill table tr td,th{
+	font-size: 14px;
+}
+
+.generate_trans_bill #amt-fld{
+
+	margin-top:10px;
+
+	font-size:20px;
+
+	font-weight:bold;
+
+	width:400px;
+
+}
+
+
+
+.generate_trans_bill #amt-paid{
+
+	border:2px solid grey;
+
+	padding:10px;
+
+	border-radius:10px;
+
+	margin-top:15px;
+
+	margin-left:0px;
+
+
+
+	
+
+}
+
+.generate_trans_bill #amt-paid h4{
+
+	text-align:center;
+
+}
+
+.generate_trans_bill #div-name{
+
+	font-size:20px;
+
+	font-weight:bold;
+
+}
+
+
+
+.generate_trans_bill #div-data{
+
+	width:300px;
+
+	margin-left:-45px;
+
+}
+
+
+
+.generate_trans_bill .form-control{
+
+	height:25px;
+
+	width:150px;
+
+}
+
+
+
+.generate_trans_bill #chk{
+
+	width:500px;
+
+	margin-top:5px;
+
+	}
+
+	.generate_trans_bill .styled-select {
+
+   height: 29px;
+
+   overflow: hidden;
+
+   width: 220px;
+
+   background: transparent;
+
+    -webkit-border-radius: 20px;
+
+   -moz-border-radius: 20px;
+
+   border-radius: 20px;
+
+    background-color: #3b8ec2;
+
+	color:white;
+
+}
+
+
+
+.generate_trans_bill #demo345{
+
+	width:500px;
+
+	margin-top:5px;
+
+	}
+
+    .generate_trans_bill .styled-select {
+
+   height: 29px;
+
+   overflow: hidden;
+
+   width: 220px;
+
+   background: transparent;
+
+    -webkit-border-radius: 20px;
+
+   -moz-border-radius: 20px;
+
+   border-radius: 20px;
+
+    background-color: #3b8ec2;
+
+	color:white;
+}
+/*end Generate transport bill*/
+/*studentwise_daily_att_report--------------------------------------*/
+.studentwise_daily_att_report .breadcrumb {
+
+    display: -ms-flexbox;
+
+    display: flex;
+
+    -ms-flex-wrap: wrap;
+
+    flex-wrap: wrap;
+
+    padding: .75rem 1rem;
+
+    margin-bottom: 1rem;
+
+    list-style: none;
+
+	margin-left:-18px;
+
+	margin-top:-17px;
+
+    background-color: #237791;
+
+    border-radius: .25rem;
+
+	font-size:19px;
+
+}
+
+.studentwise_daily_att_report .breadcrumb-item{
+
+	color:#fff;
+
+}
+
+.studentwise_daily_att_report .breadcrumb-item .fa fa-home{
+
+	color:#fff;
+
+}
+
+.studentwise_daily_att_report .breadcrumb-item.active {
+
+    color: #eff7ff;
+
+}
+
+.studentwise_daily_att_report .breadcrumb-item+.breadcrumb-item::before {
+
+    display: inline-block;
+
+    padding-right: .5rem;
+
+    color: #eff4f9;
+
+    content: "/";
+
+} 
+
+.studentwise_daily_att_report .card-body button.dt-button {
+	margin-right: 0.333em;
+    margin-bottom: 0.333em;
+    padding: 0.3em 1em;
+    border: 1px solid #999;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 0.88em;
+    line-height: 1.6em;
+    color: black;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.studentwise_daily_att_report tr th{
+    font-size:17px;
+}
+
+.studentwise_daily_att_report tr td{
+    font-size:15px;
+}
+
+/*end studentwise_daily_att_report*/
+/*classwise_daily_att_report-------------------------------*/
+.classwise_daily_att_report tr th{
+    font-size:17px;
+}
+.classwise_daily_att_report tr td{
+    font-size:15px;
+}
+/*end classwise_daily_att_report*/

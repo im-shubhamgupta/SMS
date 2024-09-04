@@ -1,0 +1,1355 @@
+[04-Jul-2023 19:03:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:03:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:03:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:03:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:03:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:04:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:05:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 13:37:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:37:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:40:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:41:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:41:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:42:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:42:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:42:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:42:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:42:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 13:42:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/connection.php:12
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/connection.php(12): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/myfunction.php(2): include('/home/abhigya/p...')
+#2 /home/abhigya/public_html/beta/sms/index_details.php(4): include_once('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/connection.php on line 12
+[04-Jul-2023 19:12:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:12:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:12:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:14:52 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:14:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:14:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:14:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:14:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct('localhost', 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 /home/abhigya/public_html/beta/sms/index_details.php(56): include_once('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 13:45:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct(NULL, 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 13:46:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abhigya_sch_db'@'localhost' (using password: YES) in /home/abhigya/public_html/beta/sms/DynamicConfig.php:11
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/DynamicConfig.php(11): mysqli->__construct(NULL, 'abhigya_sch_db', 'AIms@#123$', 'abhigya_schools')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/DynamicConfig.php on line 11
+[04-Jul-2023 19:17:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 78
+[04-Jul-2023 19:20:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 80
+[04-Jul-2023 19:20:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 80
+[04-Jul-2023 19:20:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 80
+[04-Jul-2023 19:20:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 80
+[04-Jul-2023 19:20:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/index_details.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/index_details.php on line 80
+[04-Jul-2023 19:21:47 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:24:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:25:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:26:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:30:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:32:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:32:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:33:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[04-Jul-2023 19:33:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[04-Jul-2023 19:35:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:586
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(586): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 586
+[04-Jul-2023 19:38:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:606
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(606): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 606
+[04-Jul-2023 19:38:47 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:606
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(606): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 606
+[04-Jul-2023 19:39:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:606
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(606): mysqli_query(Object(mysqli), 'select * from s...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 606
+[04-Jul-2023 20:32:12 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`expense_date` >= '2023-04-01' AND `expense_date` <= '2024-03-31') and  session' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:1002
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(1002): mysqli_query(Object(mysqli), 'select * from a...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 1002
+[04-Jul-2023 20:34:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`expense_date` >= '2023-04-01' AND `expense_date` <= '2024-03-31') and  session' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:1002
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(1002): mysqli_query(Object(mysqli), 'select * from a...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 1002
+[04-Jul-2023 20:34:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`expense_date` >= '2023-04-01' AND `expense_date` <= '2024-03-31') and  session' at line 1 in /home/abhigya/public_html/beta/sms/reports.php:1002
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/reports.php(1002): mysqli_query(Object(mysqli), 'select * from a...')
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 1002
+[05-Jul-2023 11:54:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php:119
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(353): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php on line 119
+[05-Jul-2023 12:02:04 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/header.php:64
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(171): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/header.php on line 64
+[05-Jul-2023 13:09:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:09:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:18:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:19:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:58:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:58:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:58:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:59:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:59:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 13:59:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 14:03:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 14:07:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 14:09:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 14:10:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:174
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 174
+[05-Jul-2023 14:11:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:174
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 174
+[05-Jul-2023 14:12:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:174
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 174
+[05-Jul-2023 14:12:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:174
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 174
+[05-Jul-2023 14:13:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 14:14:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:175
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 175
+[05-Jul-2023 14:14:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 355
+[05-Jul-2023 14:15:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 355
+[05-Jul-2023 14:15:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 355
+[05-Jul-2023 14:15:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(377): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_student_fees_detail.php on line 355
+[05-Jul-2023 15:55:04 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float + string in /home/abhigya/public_html/beta/sms/view_payment.php:138
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(381): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_payment.php on line 138
+[05-Jul-2023 15:57:54 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/view_payment.php:138
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(381): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_payment.php on line 138
+[05-Jul-2023 15:57:57 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/view_payment.php:138
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(381): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_payment.php on line 138
+[05-Jul-2023 15:58:05 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/abhigya/public_html/beta/sms/generate_certificate.php:424
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_certificate.php(424): implode(',', NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(477): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_certificate.php on line 424
+[05-Jul-2023 15:58:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/view_payment.php:138
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(381): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_payment.php on line 138
+[05-Jul-2023 15:59:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/view_payment.php:138
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(381): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_payment.php on line 138
+[05-Jul-2023 16:04:06 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/abhigya/public_html/beta/sms/generate_certificate.php:424
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_certificate.php(424): implode(',', NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(477): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_certificate.php on line 424
+[06-Jul-2023 06:23:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_transport_fee_detail.php:570
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(274): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_transport_fee_detail.php on line 570
+[06-Jul-2023 06:23:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_transport_fee_detail.php:570
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(274): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_transport_fee_detail.php on line 570
+[06-Jul-2023 06:24:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:24:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:24:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:24:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:24:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:28:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:32:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:32:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:355
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 355
+[06-Jul-2023 06:37:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:387
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 387
+[06-Jul-2023 06:37:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:387
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 387
+[06-Jul-2023 06:37:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:387
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 387
+[06-Jul-2023 06:54:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:54:54 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:55:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:56:10 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:56:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:56:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:56:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:246
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(246): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 246
+[06-Jul-2023 06:56:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:247
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(247): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 247
+[06-Jul-2023 06:57:01 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:247
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(247): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 247
+[06-Jul-2023 06:57:01 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:247
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(247): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 247
+[06-Jul-2023 06:57:01 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:247
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(247): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 247
+[06-Jul-2023 06:57:02 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:247
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(247): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 247
+[06-Jul-2023 06:57:04 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:247
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(247): in_array(1, NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 247
+[06-Jul-2023 07:05:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:202
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(202): explode(',', Array)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 202
+[06-Jul-2023 07:06:19 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:203
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(203): explode(',', Array)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 203
+[06-Jul-2023 07:07:40 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:203
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_transport_bill.php(203): explode(',', Array)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(789): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 203
+[06-Jul-2023 07:07:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/abhigya/public_html/beta/sms/generate_transport_bill.php:205
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(789): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_transport_bill.php on line 205
+[06-Jul-2023 09:03:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/AjaxHandler.php:544
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/AjaxHandler.php on line 544
+[06-Jul-2023 09:03:56 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/AjaxHandler.php:544
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/AjaxHandler.php on line 544
+[06-Jul-2023 09:07:02 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float + string in /home/abhigya/public_html/beta/sms/print_receipt.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_receipt.php on line 244
+[06-Jul-2023 09:08:39 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/print_receipt.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_receipt.php on line 244
+[06-Jul-2023 09:08:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/print_receipt.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_receipt.php on line 244
+[06-Jul-2023 09:09:37 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/print_receipt.php:457
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_receipt.php on line 457
+[07-Jul-2023 20:33:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php:239
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1343): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php on line 239
+[07-Jul-2023 20:33:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php:239
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1343): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php on line 239
+[07-Jul-2023 20:35:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php:239
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1343): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php on line 239
+[07-Jul-2023 20:36:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php:239
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1343): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/edit_assign_route_to_student.php on line 239
+[07-Jul-2023 20:45:05 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 20:45:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[07-Jul-2023 20:45:29 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[07-Jul-2023 20:45:36 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[07-Jul-2023 20:47:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[07-Jul-2023 20:52:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/reports.php:497
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1698): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reports.php on line 497
+[07-Jul-2023 20:53:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 20:54:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:251
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 251
+[07-Jul-2023 20:54:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:251
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 251
+[07-Jul-2023 20:54:20 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:251
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 251
+[07-Jul-2023 20:54:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:251
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 251
+[07-Jul-2023 20:54:46 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:251
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 251
+[07-Jul-2023 20:54:49 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:251
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 251
+[07-Jul-2023 20:55:41 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 20:56:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 250
+[07-Jul-2023 20:58:39 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 250
+[07-Jul-2023 21:00:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 21:00:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 21:00:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 21:02:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 21:02:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[07-Jul-2023 21:03:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:248
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 248
+[07-Jul-2023 21:04:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php:249
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1319): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_edit_inst_setting.php on line 249
+[08-Jul-2023 12:34:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'panel_id' at row 1 in /home/abhigya/public_html/beta/sms/AjaxHandler.php:1996
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/AjaxHandler.php(1996): mysqli_query(Object(mysqli), 'insert into act...')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/AjaxHandler.php on line 1996
+[08-Jul-2023 12:35:56 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[08-Jul-2023 12:38:37 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[08-Jul-2023 12:38:44 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/print_paidstudents.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_paidstudents.php on line 427
+[08-Jul-2023 12:40:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[08-Jul-2023 12:40:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/print_paidstudents.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_paidstudents.php on line 427
+[08-Jul-2023 12:40:36 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:308
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 308
+[08-Jul-2023 12:40:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/print_duestudents.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/print_duestudents.php on line 443
+[08-Jul-2023 12:41:05 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:308
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 308
+[08-Jul-2023 12:42:17 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_appinstalled_detail.php:216
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(657): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_appinstalled_detail.php on line 216
+[08-Jul-2023 12:43:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_appinstalled_detail.php:216
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(657): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_appinstalled_detail.php on line 216
+[08-Jul-2023 12:44:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/stock_available.php:121
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/stock_available.php(121): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(973): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/stock_available.php on line 121
+[08-Jul-2023 12:45:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_available_book_excel.php:29
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_available_book_excel.php(29): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_available_book_excel.php on line 29
+[08-Jul-2023 12:47:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_available_book_excel.php:29
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_available_book_excel.php(29): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_available_book_excel.php on line 29
+[08-Jul-2023 12:48:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 200
+[08-Jul-2023 12:49:01 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 200
+[08-Jul-2023 12:49:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 200
+[08-Jul-2023 12:51:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php:119
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(353): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php on line 119
+[08-Jul-2023 12:52:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php:119
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(353): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php on line 119
+[08-Jul-2023 12:55:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php:119
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(353): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php on line 119
+[08-Jul-2023 12:58:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_sms_wallet.php:32
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1327): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_sms_wallet.php on line 32
+[08-Jul-2023 13:00:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_classteacher.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(565): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_classteacher.php on line 250
+[08-Jul-2023 13:20:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_classteacher.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(565): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_classteacher.php on line 250
+[08-Jul-2023 13:21:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_classteacher.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(565): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_classteacher.php on line 250
+[08-Jul-2023 13:21:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_classteacher.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(565): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_classteacher.php on line 250
+[08-Jul-2023 13:24:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_subject.php:217
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(533): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_subject.php on line 217
+[08-Jul-2023 13:24:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_subject.php:217
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(533): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_subject.php on line 217
+[08-Jul-2023 13:25:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_subject.php:321
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(545): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_subject.php on line 321
+[08-Jul-2023 13:28:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and session='1'' at line 1 in /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php:41
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php(41): mysqli_query(Object(mysqli), 'select * from s...')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php on line 41
+[08-Jul-2023 13:28:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php:174
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php(174): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php on line 174
+[08-Jul-2023 13:29:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php:391
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(909): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php on line 391
+[08-Jul-2023 13:30:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php:391
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(909): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php on line 391
+[08-Jul-2023 13:33:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/promote_students.php:152
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1676): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/promote_students.php on line 152
+[08-Jul-2023 13:35:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/promote_students.php:152
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1676): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/promote_students.php on line 152
+[08-Jul-2023 13:36:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 13:36:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 13:36:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 13:36:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 13:37:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 13:39:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_event_calendar.php:585
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(681): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_event_calendar.php on line 585
+[08-Jul-2023 13:58:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/studentwise_daily_att_report.php:407
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(593): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/studentwise_daily_att_report.php on line 407
+[08-Jul-2023 13:58:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/studentwise_daily_att_report.php:407
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(593): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/studentwise_daily_att_report.php on line 407
+[08-Jul-2023 14:00:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/studentwise_daily_att_report.php:407
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(593): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/studentwise_daily_att_report.php on line 407
+[08-Jul-2023 14:02:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/update_test.php:149
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1383): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/update_test.php on line 149
+[08-Jul-2023 14:03:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/update_test.php:149
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1383): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/update_test.php on line 149
+[08-Jul-2023 14:06:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/marks_entry.php:142
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1227): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/marks_entry.php on line 142
+[08-Jul-2023 14:30:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/deleted_transport_report.php:500
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(290): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/deleted_transport_report.php on line 500
+[08-Jul-2023 14:34:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/reconcile_fees.php:578
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1498): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/reconcile_fees.php on line 578
+[08-Jul-2023 14:35:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_previous_fees.php:349
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(765): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_previous_fees.php on line 349
+[08-Jul-2023 14:37:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_previous_fees.php:349
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(765): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_previous_fees.php on line 349
+[08-Jul-2023 15:14:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and session='1'' at line 1 in /home/abhigya/public_html/beta/sms/export_allocatedbudget_excel.php:19
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_allocatedbudget_excel.php(19): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_allocatedbudget_excel.php on line 19
+[08-Jul-2023 15:16:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/student_idcard.php:289
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/student_idcard.php(289): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1569): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/student_idcard.php on line 289
+[08-Jul-2023 15:17:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/student_idcard.php:289
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/student_idcard.php(289): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1569): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/student_idcard.php on line 289
+[08-Jul-2023 15:19:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/abhigya/public_html/beta/sms/generate_certificate.php:424
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_certificate.php(424): implode(',', NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(477): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_certificate.php on line 424
+[08-Jul-2023 15:19:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/abhigya/public_html/beta/sms/generate_certificate.php:424
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/generate_certificate.php(424): implode(',', NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(477): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/generate_certificate.php on line 424
+[08-Jul-2023 15:21:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "Total" in /home/abhigya/public_html/beta/sms/export_categoryreport_excel.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_categoryreport_excel.php on line 82
+[08-Jul-2023 15:25:01 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[08-Jul-2023 15:25:17 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[08-Jul-2023 15:26:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:308
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 308
+[08-Jul-2023 15:26:21 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and sr.class_id='13' and sr.section_id='13' and sr.session='1'' at line 9 in /home/abhigya/public_html/beta/sms/duestudents_report.php:148
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/duestudents_report.php(148): mysqli_query(Object(mysqli), 'select a.studen...')
+#1 /home/abhigya/public_html/beta/sms/duestudents_report.php(133): filterTable('select a.studen...')
+#2 /home/abhigya/public_html/beta/sms/dashboard.php(1466): include('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/duestudents_report.php on line 148
+[08-Jul-2023 15:26:28 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and sr.class_id='5' and sr.section_id='5' and sr.session='1'' at line 9 in /home/abhigya/public_html/beta/sms/duestudents_report.php:148
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/duestudents_report.php(148): mysqli_query(Object(mysqli), 'select a.studen...')
+#1 /home/abhigya/public_html/beta/sms/duestudents_report.php(133): filterTable('select a.studen...')
+#2 /home/abhigya/public_html/beta/sms/dashboard.php(1466): include('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/duestudents_report.php on line 148
+[08-Jul-2023 15:27:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and sr.class_id='7' and sr.section_id='7' and sr.session='1'' at line 9 in /home/abhigya/public_html/beta/sms/duestudents_report.php:148
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/duestudents_report.php(148): mysqli_query(Object(mysqli), 'select a.studen...')
+#1 /home/abhigya/public_html/beta/sms/duestudents_report.php(133): filterTable('select a.studen...')
+#2 /home/abhigya/public_html/beta/sms/dashboard.php(1466): include('/home/abhigya/p...')
+#3 {main}
+  thrown in /home/abhigya/public_html/beta/sms/duestudents_report.php on line 148
+[08-Jul-2023 15:29:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/deleted_expenses.php:319
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/deleted_expenses.php(319): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(429): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/deleted_expenses.php on line 319
+[08-Jul-2023 15:30:57 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/deleted_expenses.php:319
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/deleted_expenses.php(319): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(429): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/deleted_expenses.php on line 319
+[08-Jul-2023 15:31:02 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/deleted_expenses.php:319
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/deleted_expenses.php(319): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(429): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/deleted_expenses.php on line 319
+[08-Jul-2023 15:32:39 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/search_activity_history.php:120
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/search_activity_history.php(120): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(449): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/search_activity_history.php on line 120
+[08-Jul-2023 15:33:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/search_activity_history.php:120
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/search_activity_history.php(120): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(449): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/search_activity_history.php on line 120
+[08-Jul-2023 16:16:54 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/stock_available.php:121
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/stock_available.php(121): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(973): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/stock_available.php on line 121
+[08-Jul-2023 16:18:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/stock_available.php:121
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/stock_available.php(121): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(973): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/stock_available.php on line 121
+[08-Jul-2023 16:19:01 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/view_purchase_report.php:136
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/view_purchase_report.php(136): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(965): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_purchase_report.php on line 136
+[08-Jul-2023 16:19:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/view_issuedorder_report.php:138
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/view_issuedorder_report.php(138): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(969): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_issuedorder_report.php on line 138
+[08-Jul-2023 16:20:37 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/view_return_stock_report.php:134
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/view_return_stock_report.php(134): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(981): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_return_stock_report.php on line 134
+[08-Jul-2023 16:21:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/view_dead_stock_report.php:134
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/view_dead_stock_report.php(134): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(989): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_dead_stock_report.php on line 134
+[08-Jul-2023 16:27:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_available_book_excel.php:29
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_available_book_excel.php(29): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_available_book_excel.php on line 29
+[08-Jul-2023 16:27:56 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_issuebook_student_excel.php:79
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_issuebook_student_excel.php(79): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_issuebook_student_excel.php on line 79
+[08-Jul-2023 16:28:29 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_returnedbook_student_excel.php:79
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_returnedbook_student_excel.php(79): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_returnedbook_student_excel.php on line 79
+[08-Jul-2023 16:28:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_notreturnedbook_student_excel.php:81
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_notreturnedbook_student_excel.php(81): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_notreturnedbook_student_excel.php on line 81
+[08-Jul-2023 16:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_issuebook_student_excel.php:79
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_issuebook_student_excel.php(79): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_issuebook_student_excel.php on line 79
+[08-Jul-2023 16:29:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_issuebook_faculty_excel.php:39
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_issuebook_faculty_excel.php(39): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_issuebook_faculty_excel.php on line 39
+[08-Jul-2023 16:31:44 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: in_array() expects at least 2 arguments, 1 given in /home/abhigya/public_html/beta/sms/attendance_analysis.php:263
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/attendance_analysis.php(263): in_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1621): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/attendance_analysis.php on line 263
+[08-Jul-2023 16:32:20 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: in_array() expects at least 2 arguments, 1 given in /home/abhigya/public_html/beta/sms/attendance_analysis.php:263
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/attendance_analysis.php(263): in_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(1621): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/attendance_analysis.php on line 263
+[08-Jul-2023 16:38:20 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[08-Jul-2023 16:39:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:308
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 308
+[08-Jul-2023 16:39:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 200
+[08-Jul-2023 16:40:32 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/abhigya/public_html/beta/sms/view_appinstalled_detail.php:216
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(657): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_appinstalled_detail.php on line 216
+[08-Jul-2023 16:41:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/stock_available.php:121
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/stock_available.php(121): mysqli_fetch_array(NULL)
+#1 /home/abhigya/public_html/beta/sms/dashboard.php(973): include('/home/abhigya/p...')
+#2 {main}
+  thrown in /home/abhigya/public_html/beta/sms/stock_available.php on line 121
+[08-Jul-2023 16:41:54 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/export_available_book_excel.php:29
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/export_available_book_excel.php(29): mysqli_fetch_array(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_available_book_excel.php on line 29
+[08-Jul-2023 16:42:19 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php:308
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_duestudent_excel.php on line 308
+[08-Jul-2023 16:42:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php:119
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(353): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_late_fee_assign_to_class.php on line 119
+[08-Jul-2023 16:43:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_sms_wallet.php:32
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1327): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_sms_wallet.php on line 32
+[08-Jul-2023 16:43:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_classteacher.php:250
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(565): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_classteacher.php on line 250
+[08-Jul-2023 16:43:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/assign_subject.php:321
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(545): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/assign_subject.php on line 321
+[08-Jul-2023 16:43:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php:174
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php(174): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/get_ajax_staff_leisure_periodwise.php on line 174
+[08-Jul-2023 16:43:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php:391
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(909): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php on line 391
+[08-Jul-2023 16:44:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php:391
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(909): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_syllabus_allocated_staff.php on line 391
+[08-Jul-2023 16:44:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/promote_students.php:152
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1676): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/promote_students.php on line 152
+[08-Jul-2023 16:44:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 16:44:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 16:45:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/view_leave_report.php:488
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(673): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/view_leave_report.php on line 488
+[08-Jul-2023 16:45:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "Total" in /home/abhigya/public_html/beta/sms/export_categoryreport_excel.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_categoryreport_excel.php on line 82
+[08-Jul-2023 16:45:54 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/export_paidstudent_excel.php on line 253
+[11-Jul-2023 09:59:49 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/demandfee.php:291
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1672): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/demandfee.php on line 291
+[11-Jul-2023 10:02:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/demandfee.php:291
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1672): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/demandfee.php on line 291
+[11-Jul-2023 10:11:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/demandfee.php:291
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1672): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/demandfee.php on line 291
+[11-Jul-2023 10:26:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/transport-demand-fee.php:269
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1677): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/transport-demand-fee.php on line 269
+[11-Jul-2023 10:27:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/abhigya/public_html/beta/sms/transport-demand-fee.php:269
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/dashboard.php(1677): include()
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/transport-demand-fee.php on line 269
+[11-Jul-2023 10:27:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/demand_print_fee.php:303
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/demand_print_fee.php on line 303
+[11-Jul-2023 10:28:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/abhigya/public_html/beta/sms/demand_print_fee.php:303
+Stack trace:
+#0 {main}
+  thrown in /home/abhigya/public_html/beta/sms/demand_print_fee.php on line 303

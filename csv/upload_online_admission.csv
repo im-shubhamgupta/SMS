@@ -1,0 +1,16 @@
+Sr.no,Student Name*,Father Name*,Gender*,DOB* (dd/mm/yyyy),Email,Student Contact*,Aadhar*,Qualification*,Admission class*,Address,city,State,pincode,Religion*,Caste,Social Category*,Previous school,Previous Grade*,Previous Result,Previous Percentage
+1,shumit gupta,Ramesh saw,Male,15/10/2022,shumit@gmail.com,7004011223,1.23E+11,STD - NURSERY,STD - NURSERY,ranchi ,Morabadi,jharkhand,828404,Hindu,obc,General, saraswati sishu vidya mandir,A+,Pass,10
+2,shumit gupta,Ramesh saw,Male,12/6/2022,shumit@gmail.com,7004011224,1.23E+11,STD- J.K.G,STD- J.K.G,ranchi ,Morabadi,jharkhand,828405,Islam,obc,SC, saraswati sishu vidya mandir,A,Pass,80
+3,raj yadav,Ramesh yadav,Male,19/11/2022,shumit@gmail.com,7004011225,1.23E+11,STD -S.K.G,STD -S.K.G,delhi,Morabadi,jharkhand,828406,Christian,obc,ST,saraswati sishu vidya mandir,B+,Pass,70
+4,Nilam kumari,Rajesh Saw,FEMale,12/10/2022,neelam@gmail.com,7004011226,1.23E+11,STD - 0NE (I),STD - 0NE (I),,Morabadi,jharkhand,828407,Buddhism,obc,CAT-1,saraswati sishu vidya mandir,B,Fail,70
+5,shumit gupta,Ramesh saw,Male,1/1/2023,shumit@gmail.com,7004011227,1.23E+11,STD - TWO (II),STD - TWO (II),ranchi near jail more,Morabadi,jharkhand,828408,Parsi,obc,2A,saraswati sishu vidya mandir,C+,Pass,88
+6,shumit gupta,Ramesh saw,Male,1/1/2023,shumit@gmail.com,7004011228,1.23E+11,STD - THREE (III),STD - THREE (III),ranchi near lalpur ,Morabadi,jharkhand,828409,Jain,obc,2B, saraswati sishu vidya mandir,C,Pass,55
+7,shumit gupta,Ramesh saw,Male,18/10/2022,shumit@gmail.com,7004011229,1.23E+11,STD -FOUR (IV),STD -FOUR (IV),ranchi near lalpur ,Morabadi,jharkhand,828410,Others,obc,3A,saraswati sishu vidya mandir,d,Pass,37.51
+8,shumit gupta,Ramesh saw,Male,12/8/2022,shumit@gmail.com,7004011223,1.23E+11,STD -FIVE (V),STD -FIVE (V),ranchi ,Morabadi,jharkhand,828404,Hindu,obc,3B,saraswati sishu vidya mandir,f,Fail,55
+9,shumit gupta,Ramesh saw,Male,12/6/2022,shumit@gmail.com,7004011224,1.23E+11,STD - SIX (VI),STD - SIX (VI),ranchi ,Morabadi,jharkhand,828405,Islam,obc,OBC,saraswati sishu vidya mandir,B,Pass,66
+10,raj yadav,Ramesh yadav,Male,12/11/2022,shumit@gmail.com,7004011225,1.23E+11,STD -SEVEN (VII),STD -SEVEN (VII),delhi,Morabadi,jharkhand,828406,Christian,obc,Others,saraswati sishu vidya mandir,C+,Pass,66
+11,Nilam kumari,Rajesh Saw,FEMale,12/9/2022,neelam@gmail.com,7004011226,1.23E+11,STD - EIGHT (VIII),STD - EIGHT (VIII),,Morabadi,jharkhand,828407,Buddhism,obc,3A, saraswati sishu vidya mandir,C,Fail,66
+12,shumit gupta,Ramesh saw,Male,1/1/2023,shumit@gmail.com,7004011227,1.23E+11,STD - NINE (IX),STD - NINE (IX),ranchi near jail more,Morabadi,jharkhand,828408,Parsi,obc,3B,saraswati sishu vidya mandir,d,Pass,66
+13,shumit gupta,Ramesh saw,Male,1/1/2023,shumit@gmail.com,7004011228,1.23E+11,STD - TEN (X),STD - TEN (X),ranchi near lalpur ,Morabadi,jharkhand,828409,Jain,obc,OBC,saraswati sishu vidya mandir,f,Pass,66
+14,shumit gupta,Ramesh saw,Male,13/8/2022,shumit@gmail.com,7004011229,1.23E+11,STD - ELEVEN (XI),STD - ELEVEN (XI),ranchi near lalpur ,Morabadi,jharkhand,828410,Others,obc,Others,saraswati sishu vidya mandir,B,Fail,66
+15,shumit gupta,Ramesh saw,Male,12/8/2022,shumit@gmail.com,7004011223,1.23E+11,STD - TWELVE (XII),STD - TWELVE (XII),ranchi near lalpur ,Morabadi,jharkhand,828410,Others,obc,3A,saraswati sishu vidya mandir,C+,Pass,66

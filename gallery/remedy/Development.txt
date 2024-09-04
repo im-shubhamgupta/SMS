@@ -1,0 +1,33 @@
+SAI RAM
+
+
+Feature Enhancements
+Web Application
+
+
+2. Library Management
+3. Attendance using RFID 
+
+5. Graphical notification on Report on Student, Coursewise, Male,Female, CasteWise
+6. Hall Ticket generation with Digital Signature
+7. Custom Certification Generation
+8. Auto Birthday wishes
+9. Certificate Generation
+	- Study Certification
+	- Transfer Certificate
+	- Annual Report Card.
+10. Implement Voice Message
+
+Mobile Application
+Parent App
+1.Implement Voice Message
+Teacher App
+1. Information Module
+
+
+
+
+Done
+
+1. Stock Management
+4. Staff Communication

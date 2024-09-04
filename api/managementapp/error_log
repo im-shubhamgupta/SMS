@@ -1,0 +1,115 @@
+[05-Jul-2023 02:15:34 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[05-Jul-2023 02:15:34 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[05-Jul-2023 02:15:34 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[05-Jul-2023 02:15:34 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[05-Jul-2023 02:15:34 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[05-Jul-2023 02:15:34 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[06-Jul-2023 10:20:27 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[06-Jul-2023 10:20:27 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[06-Jul-2023 10:20:27 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[07-Jul-2023 03:18:17 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8
+[08-Jul-2023 04:31:06 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8
+[08-Jul-2023 04:31:29 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8
+[08-Jul-2023 04:38:38 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8
+[08-Jul-2023 04:48:50 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 04:48:50 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 04:48:50 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 04:48:50 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 04:48:50 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 04:48:50 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 04:48:50 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php:1787
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/api/managementapp/fees_paid_students.php(26): fees_paid_students('1', '13', '13', '1', '20')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1787
+[08-Jul-2023 05:05:26 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 05:05:26 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 05:05:26 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 05:06:37 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 05:06:37 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 05:07:06 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 05:07:06 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 05:07:20 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 05:07:20 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 05:09:31 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1406
+[08-Jul-2023 05:09:55 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 05:09:55 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 05:09:55 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 05:10:12 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1406
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 05:10:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1432
+[08-Jul-2023 06:29:02 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8
+[08-Jul-2023 06:32:41 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:32:41 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:32:41 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:32:41 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:32:41 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:32:41 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:32:41 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php:1787
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/api/managementapp/fees_paid_students.php(26): fees_paid_students('1', '13', '13', '1', '20')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1787
+[08-Jul-2023 06:33:18 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:33:18 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:33:18 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:33:18 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:33:18 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:33:18 UTC] PHP Warning:  Undefined array key "late_fee" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1784
+[08-Jul-2023 06:33:18 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php:1787
+Stack trace:
+#0 /home/abhigya/public_html/beta/sms/api/managementapp/fees_paid_students.php(26): fees_paid_students('1', '13', '13', '1', '20')
+#1 {main}
+  thrown in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1787
+[08-Jul-2023 06:33:47 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:33:47 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:33:47 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:03 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:03 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:03 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:03 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:05 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:05 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:05 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:05 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:09 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:09 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:09 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:09 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:14 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:14 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:17 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:17 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:19 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:19 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:21 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:21 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:21 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:21 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 493
+[08-Jul-2023 06:34:23 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:23 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:25 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:25 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:29 UTC] PHP Warning:  Undefined array key "amount" in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:29 UTC] PHP Warning:  Undefined variable $amount in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 536
+[08-Jul-2023 06:34:34 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/abhigya/public_html/beta/sms/api/managementapp/myfunction.php on line 1406
+[08-Jul-2023 06:56:30 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8
+[09-Jul-2023 12:16:15 UTC] PHP Warning:  Undefined array key "sid" in /home/abhigya/public_html/beta/sms/api/managementapp/staffdetail.php on line 8

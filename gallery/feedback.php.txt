@@ -1,0 +1,45 @@
+function requesttype()
+{
+	global $con;		
+	$query_sub = mysqli_query($con,"SELECT * from request_type'");
+	
+	if(mysqli_num_rows($query_sub))
+	{
+		$data = array();
+		while($res = mysqli_fetch_assoc($query_sub))
+		{
+		@$temp = array();
+		$temp['request_id'] = $res['request_id'];
+		$temp['request_name'] = $res['request_name'];
+		array_push($data, $temp);
+		}
+		
+		echo json_encode($data);
+	}
+	else
+	{
+		return "No Details";
+	}
+}
+
+
+function feedback($dateofsubmission,$classid,$sectionid,$studentid,$requestid,$raisedfor,$title,$description)
+{
+	global $con;
+	
+	$submitdate = $dateofsubmission;
+	$nsubmitdate = date("Y-m-d", strtotime($submitdate));
+	
+	$que = mysqli_query($con,"insert into feedback (class_id,section_id,submission_date,student_id,request_id,raised_for,title,description,status) 
+	values('$classid','$sectionid','$nsubmitdate','$studentid','$requestid','$raisedfor','$title','$description',0)");
+	
+	if($que)
+	{
+		echo "Inserted";
+	}
+	else
+	{
+		echo "Not Inserted";
+	}
+	
+}

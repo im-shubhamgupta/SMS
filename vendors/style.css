@@ -1,0 +1,8 @@
+#err_successful{
+	color:green;
+	font-weight:bold;
+}
+#err_notsuccessful{
+	color:red;
+	font-weight:bold;
+}

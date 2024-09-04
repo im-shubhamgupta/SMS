@@ -1,0 +1,70 @@
+
+URL : srilakshmisolutions.co.in/cpanel
+Username : srilakshmisoluti
+Password : KR9(z[79#gRO
+
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: shikshana.co.in
+| Ip: 103.211.217.36 (n)
+| HasCgi: y
+| UserName: shikshanaadmin
+| PassWord: 5!DHJr@e&SuP
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 4.91 GB
+| NameServer1: ns1.phptpoint.com
+| NameServer2: ns2.phptpoint.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: nimmavasanthdn@gmail.com
+| Package: Basic
+| Feature List: default
+| Language: en
++===================================+
+
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: akasheducationinstitutionshospet.org
+| Ip: 103.211.217.36 (n)
+| HasCgi: y
+| UserName: akasheducationin
+| PassWord: HJK}0UkwyCEk
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 4.91 GB
+| NameServer1: ns1.phptpoint.com
+| NameServer2: ns2.phptpoint.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: nimmavasanthdn@gmail.com
+| Package: Basic
+| Feature List: default
+| Language: en
++===================================+
+
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: tmaesacademy.in
+| Ip: 103.211.217.36 (n)
+| HasCgi: y
+| UserName: tmaesacademy
+| PassWord: [e)Wu#]?k,uO
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 4.91 GB
+| NameServer1: ns1.phptpoint.com
+| NameServer2: ns2.phptpoint.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: srilakshmiinfosolutions@gmail.com
+| Package: Basic
+| Feature List: default
+| Language: en
++===================================+
